@@ -1,0 +1,6 @@
+Time: 2025-08-09 12:50:09.392826  Deposit of Amount 2000$.
+Time: 2025-08-09 12:50:09.394010  Withdrew of Amount 180$.
+Time: 2025-08-09 12:50:09.395005  Withdrew of Amount 1100$.
+Time: 2025-08-09 12:53:54.814713  Deposit of Amount 2000$.
+Time: 2025-08-09 12:53:54.815784  Withdrew of Amount 180$.
+Time: 2025-08-09 12:53:54.816928  Withdrew of Amount 1100$.
