@@ -1,0 +1,62 @@
+[
+    [
+        "Python Basics",
+        "John Doe",
+        "123",
+        false
+    ],
+    [
+        "Data Science 101",
+        "Jane Smith",
+        "456",
+        false
+    ],
+    [
+        "Machine Learning Essentials",
+        "Tom Brown",
+        "789",
+        true
+    ],
+    [
+        "Artificial Intelligence Guide",
+        "Sarah Connor",
+        "321",
+        true
+    ],
+    [
+        "Deep Learning with Python",
+        "Francois Chollet",
+        "654",
+        true
+    ],
+    [
+        "Clean Code",
+        "Robert C. Martin",
+        "987",
+        true
+    ],
+    [
+        "Algorithms Unlocked",
+        "Thomas H. Cormen",
+        "741",
+        true
+    ],
+    [
+        "Database Management Systems",
+        "Raghu Ramakrishnan",
+        "852",
+        true
+    ],
+    [
+        "The Pragmatic Programmer",
+        "Andrew Hunt",
+        "963",
+        true
+    ],
+    [
+        "Fluent Python",
+        "Luciano Ramalho",
+        "159",
+        true
+    ]
+]
