@@ -45,7 +45,6 @@ Each project is stored in its own folder with a "main.py" file (or similar) that
 📝 Description: A simple turtle graphics race simulation.
 ▶ How to Run: 
    python main.py
-
 -----------------------------------
  END NOTE
 -----------------------------------
